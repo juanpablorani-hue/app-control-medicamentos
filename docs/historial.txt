@@ -1,0 +1,327 @@
+    1  git config --
+    2  cls
+    3  git config --local
+    4  git config --global user.email "juanpablorani@gmail.com"
+    5  clear
+    6  clear
+    7  git config --global user.config user "juanpablorani@gmail.com"
+    8  clear
+    9  git config --global user.email "juanpablorani@gmail.com"
+   10  git config --global user.email
+   11  git config --global user.name "Juan Pablo Ramìrez"
+   12  git config --global user.name
+   13  git config --global list
+   14  git config --global --list
+   15  git config --global core.editor "code --wait"
+   16  git config --global core.editor
+   17  git config --global color.ui true
+   18  git config --global color.ui 
+   19  git config --global
+   20  git config --global
+   21  git config --global --list
+   22  clear
+   23  git config --global core.autocrlf true
+   24  git config --global core.autocrlf 
+   25  clear
+   26  CD c:/
+   27  CD C:/
+   28  cd .. C:/
+   29  cd  C:/
+   30  cd C:\Users\Juan Pablo\Desktop\GIT SZ
+   31  cd  ^[[200~C:\Users\Juan Pablo\Desktop\GIT SZ~
+   32  cd User
+   33  cd User/
+   34  clear
+   35  cd C:/
+   36  Users/
+   37  cd Users/
+   38  cd Juan Pablo/
+   39  cd JuanPablo/
+   40  cd Juan Pablo/
+   41  cd "Juan Pablo"
+   42  ls
+   43  cd Desktop/
+   44  cd "GIT SZ"
+   45  ls
+   46  git init
+   47  git add "GIT SZ"
+   48  git add "GIT SZ"
+   49  cd Desktop/
+   50  cd Desktop/
+   51  cd "GIT SZ"
+   52  git status
+   53  git add Parche_Tranqui.txt 
+   54  git checkout Parche_Tranqui.txt
+   55  cd Desktop/
+   56  git add NC JS
+   57  cd "NC JS"
+   58  git add NC JS
+   59  git add NC JS
+   60  cd
+   61  cd deskopt/
+   62  cd "NC JS"
+   63  cd deskopt/
+   64  cd Desktop/
+   65  git add "NC JS"
+   66  cd "NC JS"
+   67  git add main.js 
+   68  git add "NC JS"
+   69  ls
+   70  cd C:/
+   71  cd Users/
+   72  cd "GIT SZ"
+   73  cd Desktop
+   74  cd Desktop/
+   75  cd "Juan Pablo"
+   76  cd Desktop/
+   77  cd "GIT SZ"
+   78  git init
+   79  git commit
+   80  git log --oneline
+   81  git log
+   82  git log --oneline
+   83  git add
+   84  git add . "GIT SZ"
+   85  git log
+   86  git log --oneline
+   87  git config --global core.abbrev(5)
+   88  git config --global core.ebbrev 5
+   89  clear
+   90  git log
+   91  git config --global core.abbrev 5
+   92  git log oneline
+   93  git log --oneline
+   94  git show 8868e
+   95  git status
+   96  git add .
+   97  git status
+   98  git commit
+   99  git log
+  100  git log --oneline
+  101  git show
+  102  git config --global core.editor "code --wait"
+  103  git show
+  104  cd C:/
+  105  cd Users\Juan Pablo\Desktop\GIT SZ
+  106  cd Users\"Juan Pablo"\Desktop\"GIT SZ"
+  107  cd Users\"Juan Pablo\"Desktop\"GIT SZ"
+  108  q
+  109  cd User/
+  110  cd Users/
+  111  cd "Juan Pablo"
+  112  cd Desktop/
+  113  cd "GIT SZ"
+  114  git blame Parche_Tranqui.txt
+  115  git status
+  116  git add .
+  117  git commit -m "Añadi un parrafo de la cancion Parche_Tranqui.txt"
+  118  git status
+  119  git add .
+  120  git commit -m "Le agregue un parrafo nuevo a la cancion Parchi_Tranqui.txt"
+  121  git status
+  122  git add .
+  123  git commit -m "Le agregue un parrafo nuevo a la cancion Parche_Tranqui.txt"
+  124  git log
+  125  git log -oneline
+  126  git log --oneline
+  127  git show
+  128  git blame Parche_Tranqui.txt
+  129  git log --oneline
+  130  git diff 9b0a3
+  131  clear
+  132  git branch
+  133  git branch Juan_Pablo
+  134  git branch
+  135  git switch Juan_Pablo 
+  136  git swtich master
+  137  git switch master 
+  138  git switch Juan_Pablo 
+  139  git commit -a -m "Cambios en rama Juan Pablo"
+  140  git switch master 
+  141  cd C:/
+  142  cd Users/
+  143  cd Desktop/
+  144  cd "Juan Pablo"
+  145  cd Desktop/
+  146  cd "GIT SZ"
+  147  clear
+  148  git log --oneline
+  149  git diff d5e63 d3c05
+  150  git diff --name-only d5e63 d3c05
+  151  git diff --name-only 9b0a3 8868e
+  152  mkdir TAREA_GIT_SZ
+  153  ls
+  154  cd C:/
+  155  ls
+  156  Users/
+  157  cd Users/
+  158  cd Desktop/
+  159  cd "Juan Pablo"
+  160  cd Desktop/
+  161  ls
+  162  mkdir TALLER_GIT
+  163  ls
+  164  cd TALLER_GIT/
+  165  git add .
+  166  mkdir index.html
+  167  cd index.html/
+  168  cd ..
+  169  cd index.html/
+  170  echo "<h1>Bienvenidos</h1>"
+  171  cd ..
+  172  git add index.html
+  173  git add .
+  174  ls
+  175  git init
+  176  git add index.html
+  177  git commit -a -m "feat(core): añadir index.html base"
+  178  git commit 
+  179  git commit index.html
+  180  git add index.html
+  181  git commit
+  182  git status
+  183  git add .
+  184  git commit -a -m "feat(core): añadir index.html base."
+  185  git add index.html
+  186  git commit -m "feat(core): añadir index.html base."
+  187  ls
+  188  git status
+  189  mrmdir index.html
+  190  rmdir index.html
+  191  clear
+  192  touch index.html
+  193  echo "<h1>Bienvenidos</h1>"
+  194  touch style.css
+  195  echo "/* Estilos principales */"
+  196  git add index.html
+  197  git commit -m "feat(core): añadir index.html base."
+  198  echo "<h1>Bienvenidos a mi Sùper Proyecto</h1>"
+  199  git diff index.html
+  200  git status
+  201  ls
+  202  clear
+  203  cd index.html
+  204  clear
+  205  echo "<h1>Bienvenidos a mi Super Proyecto</h1>" >>index.html 
+  206  git commit -a -m "fix(core): actualizar titulo principal."
+  207  git status
+  208  cd C:/
+  209  cd Users/
+  210  cd "Juan Pablo"
+  211  cd Desktop/
+  212  cd "GIT SZ"
+  213  fit branch
+  214  git branch
+  215  git switch Juan_Pablo 
+  216  git add .
+  217  git commit -a -m "Cambios en apuntes"
+  218  git switch Juan_Pablo 
+  219  git switch -c Sisas_nada
+  220  git switch master 
+  221  git commit -a -m "Nada de cambios"
+  222  git switch master
+  223  git switch -c Blesss
+  224  git switch master 
+  225  git branch -D Blesss 
+  226  git branch
+  227  git branch -m Sisas_nada Siome
+  228  git branch
+  229  git branch -m Siome Sisas_nada
+  230  git branch
+  231  git switch Sisas_nada 
+  232  git commit -a -m "apuntes nuevos"
+  233  git switch Sisas_nada 
+  234  git switch Juan_Pablo 
+  235  git commit -a -m "Nuevos parrafos a la cancion Parche_Tranqui"
+  236  git switch master 
+  237  git merge Juan_Pablo 
+  238  cd C:/
+  239  cd Users/
+  240  cd "Juan Pablo"/
+  241  cd Desktop/
+  242  cd "GIT SZ"/
+  243  git status
+  244  git add .
+  245  git commit -m "commit de git ignore"
+  246  git status
+  247  git remote add origin https://github.com/juanpablorani-hue/Canciones-git-clase.git
+  248  git branch -M main
+  249  git push -u origin main
+  250  git push origin main --force
+  251  git remote -v
+  252  cd ..
+  253  clear
+  254  cd Repositorio_Nuevo/
+  255  git init
+  256  git add .
+  257  git commit -m "Agregue carpeta "Achivos" quien tiene dentro 5 Archivos"
+  258  git branch -M main
+  259  git remote add origin https://github.com/juanpablorani-hue/Repositorio_Nuevo.git
+  260  git push -u origin main
+  261  git push origin main --force
+  262  cd
+  263  cd C:/
+  264  cd Users/
+  265  cd "Juan Pablo"
+  266  cd Desktop/
+  267  cd prueba_2/
+  268  git init
+  269  git remote add origin https://github.com/sanye587-cr7/practica-canci-n.git
+  270  git branch -M master main
+  271  git remote -v
+  272  git pull origin main
+  273  git remote remove origin 
+  274  git remote -v
+  275  git remote add origin https://github.com/juanpablorani-hue/practica-canci-n.git
+  276  git remote -v
+  277  git pull origin main
+  278  git push origin main
+  279  git remote remove origin
+  280  git remote -v
+  281  git remote add origin https://github.com/sanye587-cr7/practica-canci-n.git
+  282  git pull origin main
+  283  git push origin main
+  284  git switch -c "Juan Pablo"
+  285  git branch
+  286  git switch -c Juan_Pablo
+  287  git switch main
+  288  git merge
+  289  git merge Juan_Pablo
+  290  git switch Juan_Pablo
+  291  git branch
+  292  git switch -c Juan_pablo
+  293  git Branch Juan_Pablo
+  294  git branch Juan_Pablo
+  295  git switch Juan_Pablo 
+  296  git merge --continue
+  297  git switch Juan_Pablo 
+  298  git pull origin Juan_Pablo
+  299  git pull origin main
+  300  git switch main
+  301  git mkdir mi_app
+  302  clear
+  303  mkdir mi_app
+  304  rmdir mi_app/
+  305  mkdir mi-app
+  306  ls
+  307  mkdir mi-app/
+  308  rmdir mi-app/
+  309  clear
+  310  touch readme.MD
+  311  touch .gitignore
+  312  mkdir docs
+  313  cd docs/
+  314  touch idea.MD
+  315  touch estructura.txt
+  316  touch historial.txt
+  317  cd ..
+  318  mkdir src
+  319  cd src/
+  320  mkdir main.py
+  321  cd ..
+  322  cd docs/
+  323  ls R > estructura.txt 
+  324  ls-R > estructura.txt 
+  325  ls -R > estructura.txt         t 
+  326  ls -R > estructura.txt 
+  327  history > historial.txt 

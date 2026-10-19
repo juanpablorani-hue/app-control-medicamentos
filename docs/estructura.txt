@@ -1,0 +1,4 @@
+.:
+estructura.txt
+historial.txt
+idea.MD
